@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A98A21-C3A6-49A9-81D7-AF827E202336}|TestProject1\\TestProject1.csproj|c:\\users\\2132507\\documents\\code\\prog2\\lab10\\lab10_partie3\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A98A21-C3A6-49A9-81D7-AF827E202336}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5145E9F-E8D8-471E-B9D4-91D768AE2A71}|Lab10_Partie3\\Lab10_Partie3.csproj|c:\\users\\2132507\\documents\\code\\prog2\\lab10\\lab10_partie3\\lab10_partie3\\robotreparateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5145E9F-E8D8-471E-B9D4-91D768AE2A71}|Lab10_Partie3\\Lab10_Partie3.csproj|solutionrelative:lab10_partie3\\robotreparateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5145E9F-E8D8-471E-B9D4-91D768AE2A71}|Lab10_Partie3\\Lab10_Partie3.csproj|c:\\users\\2132507\\documents\\code\\prog2\\lab10\\lab10_partie3\\lab10_partie3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5145E9F-E8D8-471E-B9D4-91D768AE2A71}|Lab10_Partie3\\Lab10_Partie3.csproj|solutionrelative:lab10_partie3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5145E9F-E8D8-471E-B9D4-91D768AE2A71}|Lab10_Partie3\\Lab10_Partie3.csproj|c:\\users\\2132507\\documents\\code\\prog2\\lab10\\lab10_partie3\\lab10_partie3\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5145E9F-E8D8-471E-B9D4-91D768AE2A71}|Lab10_Partie3\\Lab10_Partie3.csproj|solutionrelative:lab10_partie3\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5145E9F-E8D8-471E-B9D4-91D768AE2A71}|Lab10_Partie3\\Lab10_Partie3.csproj|c:\\users\\2132507\\documents\\code\\prog2\\lab10\\lab10_partie3\\lab10_partie3\\robotdestructeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5145E9F-E8D8-471E-B9D4-91D768AE2A71}|Lab10_Partie3\\Lab10_Partie3.csproj|solutionrelative:lab10_partie3\\robotdestructeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5145E9F-E8D8-471E-B9D4-91D768AE2A71}|Lab10_Partie3\\Lab10_Partie3.csproj|c:\\users\\2132507\\documents\\code\\prog2\\lab10\\lab10_partie3\\lab10_partie3\\robotconstructeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5145E9F-E8D8-471E-B9D4-91D768AE2A71}|Lab10_Partie3\\Lab10_Partie3.csproj|solutionrelative:lab10_partie3\\robotconstructeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5145E9F-E8D8-471E-B9D4-91D768AE2A71}|Lab10_Partie3\\Lab10_Partie3.csproj|c:\\users\\2132507\\documents\\code\\prog2\\lab10\\lab10_partie3\\lab10_partie3\\montreal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5145E9F-E8D8-471E-B9D4-91D768AE2A71}|Lab10_Partie3\\Lab10_Partie3.csproj|solutionrelative:lab10_partie3\\montreal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5145E9F-E8D8-471E-B9D4-91D768AE2A71}|Lab10_Partie3\\Lab10_Partie3.csproj|c:\\users\\2132507\\documents\\code\\prog2\\lab10\\lab10_partie3\\lab10_partie3\\batiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5145E9F-E8D8-471E-B9D4-91D768AE2A71}|Lab10_Partie3\\Lab10_Partie3.csproj|solutionrelative:lab10_partie3\\batiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5145E9F-E8D8-471E-B9D4-91D768AE2A71}|Lab10_Partie3\\Lab10_Partie3.csproj|c:\\users\\2132507\\documents\\code\\prog2\\lab10\\lab10_partie3\\lab10_partie3\\usine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5145E9F-E8D8-471E-B9D4-91D768AE2A71}|Lab10_Partie3\\Lab10_Partie3.csproj|solutionrelative:lab10_partie3\\usine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5145E9F-E8D8-471E-B9D4-91D768AE2A71}|Lab10_Partie3\\Lab10_Partie3.csproj|c:\\users\\2132507\\documents\\code\\prog2\\lab10\\lab10_partie3\\lab10_partie3\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5145E9F-E8D8-471E-B9D4-91D768AE2A71}|Lab10_Partie3\\Lab10_Partie3.csproj|solutionrelative:lab10_partie3\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Montreal.cs",
+              "DocumentMoniker": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\Lab10_Partie3\\Montreal.cs",
+              "RelativeDocumentMoniker": "Lab10_Partie3\\Montreal.cs",
+              "ToolTip": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\Lab10_Partie3\\Montreal.cs",
+              "RelativeToolTip": "Lab10_Partie3\\Montreal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:36:33.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:06:47.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Batiment.cs",
+              "DocumentMoniker": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\Lab10_Partie3\\Batiment.cs",
+              "RelativeDocumentMoniker": "Lab10_Partie3\\Batiment.cs",
+              "ToolTip": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\Lab10_Partie3\\Batiment.cs",
+              "RelativeToolTip": "Lab10_Partie3\\Batiment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:36:44.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RobotDestructeur.cs",
+              "DocumentMoniker": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\Lab10_Partie3\\RobotDestructeur.cs",
+              "RelativeDocumentMoniker": "Lab10_Partie3\\RobotDestructeur.cs",
+              "ToolTip": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\Lab10_Partie3\\RobotDestructeur.cs",
+              "RelativeToolTip": "Lab10_Partie3\\RobotDestructeur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:30:00.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RobotReparateur.cs",
+              "DocumentMoniker": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\Lab10_Partie3\\RobotReparateur.cs",
+              "RelativeDocumentMoniker": "Lab10_Partie3\\RobotReparateur.cs",
+              "ToolTip": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\Lab10_Partie3\\RobotReparateur.cs",
+              "RelativeToolTip": "Lab10_Partie3\\RobotReparateur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:29:46.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RobotConstructeur.cs",
+              "DocumentMoniker": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\Lab10_Partie3\\RobotConstructeur.cs",
+              "RelativeDocumentMoniker": "Lab10_Partie3\\RobotConstructeur.cs",
+              "ToolTip": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\Lab10_Partie3\\RobotConstructeur.cs",
+              "RelativeToolTip": "Lab10_Partie3\\RobotConstructeur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:29:28.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Piece.cs",
+              "DocumentMoniker": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\Lab10_Partie3\\Piece.cs",
+              "RelativeDocumentMoniker": "Lab10_Partie3\\Piece.cs",
+              "ToolTip": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\Lab10_Partie3\\Piece.cs",
+              "RelativeToolTip": "Lab10_Partie3\\Piece.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:02:21.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usine.cs",
+              "DocumentMoniker": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\Lab10_Partie3\\Usine.cs",
+              "RelativeDocumentMoniker": "Lab10_Partie3\\Usine.cs",
+              "ToolTip": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\Lab10_Partie3\\Usine.cs",
+              "RelativeToolTip": "Lab10_Partie3\\Usine.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:02:09.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\Lab10_Partie3\\Robot.cs",
+              "RelativeDocumentMoniker": "Lab10_Partie3\\Robot.cs",
+              "ToolTip": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\Lab10_Partie3\\Robot.cs",
+              "RelativeToolTip": "Lab10_Partie3\\Robot.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:01:53.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\Lab10_Partie3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab10_Partie3\\Program.cs",
+              "ToolTip": "C:\\Users\\2132507\\Documents\\Code\\Prog2\\Lab10\\Lab10_Partie3\\Lab10_Partie3\\Program.cs",
+              "RelativeToolTip": "Lab10_Partie3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:52:42.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
